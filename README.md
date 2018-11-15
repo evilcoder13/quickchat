@@ -16,6 +16,15 @@ Well, I didn't put login on this, so no worry, just put any username in.
 # Deploy:
 You can deploy this on Linux, Windows, Mac, Docker or Wherever you want as it's .Net core framework.
 
+# Getting Started:
+dotnet restore
+
+dotnet build
+
+dotnet run
+
+Then there we go!
+
 # Term of use:
 As you wish :)
 
